@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="style.css">
+	<script src="./js/index.js" defer></script>
+	<script src="./js/helpers.js"></script>
+	<title>Ruleta Actividades</title>
+</head>
+<body>
+	<!-- Título -->
+	<h1>¡Ruleta Actividades!</h1>
+	<div id="container">
+
+		<!-- Marcador -->
+		<div id="marcador">
+			<div id="cartelGanador">
+				<p id="ganadorTexto">¡Click en "Girar" para iniciar!</p>
+			</div>
+		</div>
+
+		<!-- Ruleta -->
+		<div id="ruleta">
+			<!-- <img src="./img/transportador.png" alt=""> -->
+			<div id="sortear"><p>GIRAR</p></div>
+		</div>
+	</div>
+	<!-- <button id="settings">SETTINGS</button> -->
+
+	<!-- Modal -->
+	<dialog>
+		<div id="tituloForm">
+			<p>Nombre</p>
+			<p>Probabilidad (%)</p>
+		</div>
+		<div id="formContainer"></div>
+		<button id="agregar">+</button>
+		<p>Total: <span id="porcentaje"></span>%</p>
+		<button id="aceptar">Cambiar</button>
+		<button id="cancelar">Cancelar</button>
+	</dialog>
+
+	<!-- Footer -->
+	<footer>
+	</footer>
+</body>
+</html>
