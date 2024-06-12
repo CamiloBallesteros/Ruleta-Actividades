@@ -32,26 +32,26 @@ let suma = 0;
 var probGeneral = 5;
 
 /** Instancias de conceptos que se cargan al iniciar la app */
-const uno = { nombre: "Act. 1", nombreCompleto: "Actividad 1", url: "https://drive.google.com/file/d/1zxImhGJdZGV4-xhM6aOjLQIyCpq_ce0E/view?usp=sharing", probabilidad: probGeneral }
-const dos = { nombre: "Act. 2", nombreCompleto: "Actividad 2", url: "https://drive.google.com/file/d/1Mg-wFKdYXdAz08_T40REhrCrTfPPVnhx/view?usp=sharing", probabilidad: probGeneral }
-const tres = { nombre: "Act. 3", nombreCompleto: "Actividad 3", url: "https://drive.google.com/file/d/1qWD1MgwfLRyjbyGrJr9qN77aTXNd1ZqO/view?usp=sharing", probabilidad: probGeneral }
-const cuatro = { nombre: "Act. 4", nombreCompleto: "Actividad 4", url: "https://drive.google.com/file/d/17MBl8K5CAADmVAvvq-5nkzmM5MTRmbRP/view?usp=sharing", probabilidad: probGeneral }
-const cinco = { nombre: "Act. 5", nombreCompleto: "Actividad 5", url: "https://drive.google.com/file/d/1QLa1OVYE4CGgO7n_H9lK2iw_Iqv9AxLq/view?usp=sharing", probabilidad: probGeneral }
-const seis = { nombre: "Act. 6", nombreCompleto: "Actividad 6", url: "https://drive.google.com/file/d/1HkkRKg4fm_XaL0ZCxd6kacpRGn1q6jBc/view?usp=sharing", probabilidad: probGeneral }
-const siete = { nombre: "Act. 7", nombreCompleto: "Actividad 7", url: "https://drive.google.com/file/d/11hx6EFNYhggJyGtG7TCNT83WeuszJRJU/view?usp=drive_link", probabilidad: probGeneral }
-const ocho = { nombre: "Act. 8", nombreCompleto: "Actividad 8", url: "https://drive.google.com/file/d/1pz2Im7qBXtOPMK-Kf1fODXpFJrfPeMUX/view?usp=sharing", probabilidad: probGeneral }
-const nueve = { nombre: "Act. 9", nombreCompleto: "Actividad 9", url: "https://drive.google.com/file/d/19j-uB0WunuFVERVrOvsJ8uw-b_N9O1xK/view?usp=sharing", probabilidad: probGeneral }
-const diez = { nombre: "Act. 10", nombreCompleto: "Actividad 10", url: "https://drive.google.com/file/d/1F3H0Sgc4NHRfHa7ZJkXc86dKKLPXGt3A/view?usp=sharing", probabilidad: probGeneral }
-const once = { nombre: "Act. 11", nombreCompleto: "Actividad 11", url: "https://drive.google.com/file/d/1sYScBOVjdCbieOEGF0yCRAAg5dNdwXT7/view?usp=sharing", probabilidad: probGeneral }
-const doce = { nombre: "Act. 12", nombreCompleto: "Actividad 12", url: "https://drive.google.com/file/d/1I3zKpdzJPYbQGtrYSYng_KPAT2iVHyf_/view?usp=sharing", probabilidad: probGeneral }
-const trece = { nombre: "Act. 13", nombreCompleto: "Actividad 13", url: "https://drive.google.com/file/d/1HecQOx8cV2jrLDTwl-_wG0lHTSQ-j29F/view?usp=sharing", probabilidad: probGeneral }
-const catorce = { nombre: "Act. 14", nombreCompleto: "Actividad 14", url: "https://drive.google.com/file/d/1dKK3bS2h4pA4-5njuco4IuOmNNtx8tjD/view?usp=sharing", probabilidad: probGeneral }
-const quince = { nombre: "Act. 15", nombreCompleto: "Actividad 15", url: "https://drive.google.com/file/d/1sDB3sKkJL6rDLiRX-Hqxq4P4W_1JKaGl/view?usp=sharing", probabilidad: probGeneral }
-const dieciseis = { nombre: "Act. 16", nombreCompleto: "Actividad 16", url: "https://drive.google.com/file/d/1rSBYhJVyOq4jbfBRwwVTO5WKHcwVX7aj/view?usp=sharing", probabilidad: probGeneral }
-const diecisiete = { nombre: "Act. 17", nombreCompleto: "Actividad 17", url: "https://drive.google.com/file/d/1Kz6tAkQRq2_IFEIZG-L3MWGNB0ychwCq/view?usp=sharing", probabilidad: probGeneral }
-const dieciocho = { nombre: "Act. 18", nombreCompleto: "Actividad 18", url: "https://drive.google.com/file/d/15W2KylwyiGIYVWqE5U_cGpYx5injQfPR/view?usp=sharing", probabilidad: probGeneral }
-const diecinueve = { nombre: "Act. 19", nombreCompleto: "Actividad 19", url: "https://drive.google.com/file/d/1kXWy6W_NR3TBhJGF_ScNafEAPT907dKc/view?usp=sharing", probabilidad: probGeneral }
-const veinte = { nombre: "Act. 20", nombreCompleto: "Actividad 20", url: "https://drive.google.com/file/d/1BvAvWLe5HZePbuc5FKR1Okx2ifQ94Y24/view?usp=sharing", probabilidad: probGeneral }
+const uno = { nombre: "Kenny", nombreCompleto: "Pautas de Crianza Positiva", url: "https://drive.google.com/file/d/1zxImhGJdZGV4-xhM6aOjLQIyCpq_ce0E/view?usp=sharing", probabilidad: probGeneral }
+const dos = {nombre: "Elkin", nombreCompleto: "Ecotips para el cuidado del medio ambiente", url: "https://drive.google.com/file/d/1Mg-wFKdYXdAz08_T40REhrCrTfPPVnhx/view?usp=sharing", probabilidad: probGeneral }
+const tres = { nombre: "Erica", nombreCompleto: "Juegos con sabor a tradición", url: "https://drive.google.com/file/d/1qWD1MgwfLRyjbyGrJr9qN77aTXNd1ZqO/view?usp=sharing", probabilidad: probGeneral }
+const cuatro = { nombre: "Gina", nombreCompleto: "Rincones magicos de la lectura familiar", url: "https://drive.google.com/file/d/17MBl8K5CAADmVAvvq-5nkzmM5MTRmbRP/view?usp=sharing", probabilidad: probGeneral }
+const cinco = { nombre: "Johanna", nombreCompleto: "Teatro de sombras", url: "https://drive.google.com/file/d/1QLa1OVYE4CGgO7n_H9lK2iw_Iqv9AxLq/view?usp=sharing", probabilidad: probGeneral }
+const seis = { nombre: "Keisy", nombreCompleto: "Caza del tesoro", url: "https://drive.google.com/file/d/1HkkRKg4fm_XaL0ZCxd6kacpRGn1q6jBc/view?usp=sharing", probabilidad: probGeneral }
+const siete = { nombre: "Dilia", nombreCompleto: "Huerta de colores", url: "https://drive.google.com/file/d/11hx6EFNYhggJyGtG7TCNT83WeuszJRJU/view?usp=drive_link", probabilidad: probGeneral }
+const ocho = { nombre: "Ladys", nombreCompleto: "Desayunos divertidos y saludables para crecer fuertes", url: "https://drive.google.com/file/d/1pz2Im7qBXtOPMK-Kf1fODXpFJrfPeMUX/view?usp=sharing", probabilidad: probGeneral }
+const nueve = { nombre: "Lina", nombreCompleto: "Expresando mis emociones", url: "https://drive.google.com/file/d/19j-uB0WunuFVERVrOvsJ8uw-b_N9O1xK/view?usp=sharing", probabilidad: probGeneral }
+const diez = { nombre: "Lizbey", nombreCompleto: "Desinfectando superficies... Una aventura en casa", url: "https://drive.google.com/file/d/1F3H0Sgc4NHRfHa7ZJkXc86dKKLPXGt3A/view?usp=sharing", probabilidad: probGeneral }
+const once = { nombre: "Luz Maria", nombreCompleto: "Explorando sonidos", url: "https://drive.google.com/file/d/1sYScBOVjdCbieOEGF0yCRAAg5dNdwXT7/view?usp=sharing", probabilidad: probGeneral }
+const doce = { nombre: "Maria", nombreCompleto: "Aventuras de limpieza en el hogar", url: "https://drive.google.com/file/d/1I3zKpdzJPYbQGtrYSYng_KPAT2iVHyf_/view?usp=sharing", probabilidad: probGeneral }
+const trece = { nombre: "Monica A", nombreCompleto: "Soplare, soplare y en familia me divertiré", url: "https://drive.google.com/file/d/1HecQOx8cV2jrLDTwl-_wG0lHTSQ-j29F/view?usp=sharing", probabilidad: probGeneral }
+const catorce = { nombre: "Monica B", nombreCompleto: "Guarda y disfruta estrategias eficaces de almacenamiento de alimentos", url: "https://drive.google.com/file/d/1dKK3bS2h4pA4-5njuco4IuOmNNtx8tjD/view?usp=sharing", probabilidad: probGeneral }
+const quince = { nombre: "Nimia", nombreCompleto: "¡Nutrición en Polvo!: La Magia de Preparar tu Propia Bienestarina", url: "https://drive.google.com/file/d/1sDB3sKkJL6rDLiRX-Hqxq4P4W_1JKaGl/view?usp=sharing", probabilidad: probGeneral }
+const dieciseis = { nombre: "Thianny", nombreCompleto: "Jugando en familia", url: "https://drive.google.com/file/d/1rSBYhJVyOq4jbfBRwwVTO5WKHcwVX7aj/view?usp=sharing", probabilidad: probGeneral }
+const diecisiete = { nombre: "Yajhaira", nombreCompleto: "Mis amigas las verduras", url: "https://drive.google.com/file/d/1Kz6tAkQRq2_IFEIZG-L3MWGNB0ychwCq/view?usp=sharing", probabilidad: probGeneral }
+const dieciocho = { nombre: "Yesenia", nombreCompleto: "Juntos en casa, juntos en seguridad", url: "https://drive.google.com/file/d/15W2KylwyiGIYVWqE5U_cGpYx5injQfPR/view?usp=sharing", probabilidad: probGeneral }
+const diecinueve = { nombre: "Angelica", nombreCompleto: "El corazón de un artista", url: "https://drive.google.com/file/d/1kXWy6W_NR3TBhJGF_ScNafEAPT907dKc/view?usp=sharing", probabilidad: probGeneral }
+const veinte = { nombre: "Kevin", nombreCompleto: "Aventuras de las emociones en familia", url: "https://drive.google.com/file/d/1BvAvWLe5HZePbuc5FKR1Okx2ifQ94Y24/view?usp=sharing", probabilidad: probGeneral }
 
 
 let conceptos = [uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez, once, doce,
@@ -85,9 +85,9 @@ function sortear(){
 	let pAcumulada = 0;
 	conceptos.forEach(concepto => {
 		if (nSorteo * 100 > pAcumulada && nSorteo * 100 <= pAcumulada + concepto.probabilidad) {
-			ganador = 'Ganador: ' + concepto.nombreCompleto;
+			ganador = 'Actividad Ganadora: ' + concepto.nombreCompleto;
 			setTimeout(function () {
-				window.open(concepto.url,"_blank");
+				window.open(concepto.url,"_self");
 			}, 6500);
 			//console.log("Ganador", nSorteo*100, concepto.nombre, "porque está entre ",pAcumulada, "y",pAcumulada+concepto.probabilidad)
 		};
